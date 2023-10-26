@@ -18,7 +18,7 @@ final user1 = User(
 final user2 = User(
   userId: "1",
   name: "Muhamad Ariq Rasyid",
-  email: "mariq.rasyid@gmail.com",
+  email: "mariq.rasyid@westernpack.com",
   password: "Bl1zz4rd03",
   createdAt: "10.23.2023",
   modifyAt: "10.23.2023",
